@@ -44,7 +44,7 @@ While running the program:
 
 ## Requirements
 
-Install dependencies:
+Install dependencies(for Ubuntu):
 
 ```bash
 sudo apt update
